@@ -9,7 +9,7 @@ How to run the Hospital Management Project Using PHP and MySQL
 6.Import hms.sql file(given inside the zip package in SQL file folder)
 7.Run the script http://localhost/hospital (frontend)
 8.Login Details
-Login Details for admin : admin/Test@12345
-Login Details for Patient: johndoe12@test.com/Test@123
-Login Details for Doctor: anujk123@test.com/Test@123
+9.Login Details for admin : admin/Test@12345
+10.Login Details for Patient: johndoe12@test.com/Test@123
+11.Login Details for Doctor: anujk123@test.com/Test@123
 
